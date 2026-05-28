@@ -1,0 +1,733 @@
+Species	Mut	ObsNum	ExpNum	MutSpec
+Reticulitermes_grassei	A>G	2.55197	80.1954	0.0930264
+Reticulitermes_grassei	C>T	0.59367	42.2766	0.0
+Reticulitermes_grassei	G>A	2.79655	11.4283	0.715354
+Reticulitermes_grassei	T>C	2.19361	33.4657	0.19162
+Reticulitermes_grassei	A>T	0.0	58.2557	0.0
+Reticulitermes_grassei	C>A	0.0	7.97041	0.0
+Reticulitermes_grassei	C>G	0.0	7.97041	0.0
+Reticulitermes_grassei	G>C	0.0	4.75922	0.0
+Reticulitermes_grassei	T>A	0.0	9.13262	0.0
+Reticulitermes_grassei	T>G	0.0	9.13262	0.0
+Reticulitermes_grassei	G>T	0.0	4.75922	0.0
+Reticulitermes_grassei	A>C	0.0	58.2557	0.0
+Reticulitermes_kanmonensis	A>G	0.469588	106.242	0.0
+Reticulitermes_kanmonensis	A>T	0.475636	73.0377	0.0
+Reticulitermes_kanmonensis	C>T	0.364147	58.8636	0.0
+Reticulitermes_kanmonensis	T>C	5.05844	38.8801	1.0
+Reticulitermes_kanmonensis	G>A	0.0	6.47732	0.0
+Reticulitermes_kanmonensis	G>T	0.0	3.98686	0.0
+Reticulitermes_kanmonensis	T>G	0.0	14.0897	0.0
+Reticulitermes_kanmonensis	A>C	0.0	73.0377	0.0
+Reticulitermes_kanmonensis	T>A	0.0	14.0897	0.0
+Reticulitermes_kanmonensis	C>G	0.0	9.1304	0.0
+Reticulitermes_kanmonensis	C>A	0.0	9.1304	0.0
+Reticulitermes_kanmonensis	G>C	0.0	3.98686	0.0
+Macrotermes_herus	C>T	2.2038	46.2179	0.459846
+Macrotermes_herus	T>C	0.999892	17.852	0.540154
+Macrotermes_herus	A>T	0.0	54.3231	0.0
+Macrotermes_herus	A>C	0.0	54.3231	0.0
+Macrotermes_herus	T>A	0.0	9.01403	0.0
+Macrotermes_herus	G>C	0.0	1.72762	0.0
+Macrotermes_herus	C>G	0.0	11.1175	0.0
+Macrotermes_herus	T>G	0.0	9.01403	0.0
+Macrotermes_herus	G>A	0.0	4.40699	0.0
+Macrotermes_herus	C>A	0.0	11.1175	0.0
+Macrotermes_herus	G>T	0.0	1.72762	0.0
+Macrotermes_herus	A>G	0.0	70.8472	0.0
+Microcerotermes_parvus	A>G	1.94183	194.109	0.0552892
+Microcerotermes_parvus	A>T	0.979827	141.824	0.0381833
+Microcerotermes_parvus	C>T	3.87505	126.332	0.169528
+Microcerotermes_parvus	G>A	2.97469	26.1442	0.628843
+Microcerotermes_parvus	T>C	1.93015	98.6315	0.108156
+Microcerotermes_parvus	C>G	0.0	28.8979	0.0
+Microcerotermes_parvus	G>C	0.0	11.8825	0.0
+Microcerotermes_parvus	C>A	0.0	28.8979	0.0
+Microcerotermes_parvus	T>A	0.0	40.0034	0.0
+Microcerotermes_parvus	T>G	0.0	40.0034	0.0
+Microcerotermes_parvus	A>C	0.0	141.824	0.0
+Microcerotermes_parvus	G>T	0.0	11.8825	0.0
+Reticulitermes_lucifugus	A>C	1.71146	61.4576	0.0281633
+Reticulitermes_lucifugus	A>G	11.7756	87.1752	0.13661
+Reticulitermes_lucifugus	C>A	1.54877	9.75861	0.160506
+Reticulitermes_lucifugus	C>T	9.2134	48.7096	0.191293
+Reticulitermes_lucifugus	G>A	1.1982	6.53085	0.185547
+Reticulitermes_lucifugus	T>C	8.93062	30.3202	0.297881
+Reticulitermes_lucifugus	A>T	0.0	61.4576	0.0
+Reticulitermes_lucifugus	T>G	0.0	8.44532	0.0
+Reticulitermes_lucifugus	G>C	0.0	3.32567	0.0
+Reticulitermes_lucifugus	G>T	0.0	3.32567	0.0
+Reticulitermes_lucifugus	T>A	0.0	8.44532	0.0
+Reticulitermes_lucifugus	C>G	0.0	9.75861	0.0
+Reticulitermes_aculabialis	A>C			
+Reticulitermes_aculabialis	A>G			
+Reticulitermes_aculabialis	A>T			
+Reticulitermes_aculabialis	C>A			
+Reticulitermes_aculabialis	C>G			
+Reticulitermes_aculabialis	C>T			
+Reticulitermes_aculabialis	G>A			
+Reticulitermes_aculabialis	G>C			
+Reticulitermes_aculabialis	G>T			
+Reticulitermes_aculabialis	T>A			
+Reticulitermes_aculabialis	T>C			
+Reticulitermes_aculabialis	T>G			
+Reticulitermes_virginicus	A>G	0.999437	118.37	0.0409839
+Reticulitermes_virginicus	A>T	0.728368	83.5123	0.0
+Reticulitermes_virginicus	C>G	0.999812	10.9838	0.44184
+Reticulitermes_virginicus	C>T	3.05693	65.2249	0.227495
+Reticulitermes_virginicus	T>C	2.44562	40.9796	0.289681
+Reticulitermes_virginicus	T>A	0.0	12.6175	0.0
+Reticulitermes_virginicus	G>T	0.0	2.63235	0.0
+Reticulitermes_virginicus	G>A	0.0	6.89847	0.0
+Reticulitermes_virginicus	C>A	0.0	10.9838	0.0
+Reticulitermes_virginicus	T>G	0.0	12.6175	0.0
+Reticulitermes_virginicus	A>C	0.0	83.5123	0.0
+Reticulitermes_virginicus	G>C	0.0	2.63235	0.0
+Embiratermes_neotenicus	A>C			
+Embiratermes_neotenicus	A>G			
+Embiratermes_neotenicus	A>T			
+Embiratermes_neotenicus	C>A			
+Embiratermes_neotenicus	C>G			
+Embiratermes_neotenicus	C>T			
+Embiratermes_neotenicus	G>A			
+Embiratermes_neotenicus	G>C			
+Embiratermes_neotenicus	G>T			
+Embiratermes_neotenicus	T>A			
+Embiratermes_neotenicus	T>C			
+Embiratermes_neotenicus	T>G			
+Silvestritermes_minutus	A>C			
+Silvestritermes_minutus	A>G			
+Silvestritermes_minutus	A>T			
+Silvestritermes_minutus	C>A			
+Silvestritermes_minutus	C>G			
+Silvestritermes_minutus	C>T			
+Silvestritermes_minutus	G>A			
+Silvestritermes_minutus	G>C			
+Silvestritermes_minutus	G>T			
+Silvestritermes_minutus	T>A			
+Silvestritermes_minutus	T>C			
+Silvestritermes_minutus	T>G			
+Coptotermes_frenchi	A>G	1.13893	159.625	0.0619631
+Coptotermes_frenchi	A>T	0.927259	120.966	0.0665692
+Coptotermes_frenchi	C>T	5.46678	103.139	0.460303
+Coptotermes_frenchi	G>A	0.485206	12.5376	0.0
+Coptotermes_frenchi	T>C	2.18418	46.1326	0.411165
+Coptotermes_frenchi	A>C	0.0	120.966	0.0
+Coptotermes_frenchi	C>A	0.0	16.8811	0.0
+Coptotermes_frenchi	C>G	0.0	16.8811	0.0
+Coptotermes_frenchi	G>C	0.0	5.28628	0.0
+Coptotermes_frenchi	T>A	0.0	17.4714	0.0
+Coptotermes_frenchi	G>T	0.0	5.28628	0.0
+Coptotermes_frenchi	T>G	0.0	17.4714	0.0
+Nitiditermes_proximatus	A>C			
+Nitiditermes_proximatus	A>G			
+Nitiditermes_proximatus	A>T			
+Nitiditermes_proximatus	C>A			
+Nitiditermes_proximatus	C>G			
+Nitiditermes_proximatus	C>T			
+Nitiditermes_proximatus	G>A			
+Nitiditermes_proximatus	G>C			
+Nitiditermes_proximatus	G>T			
+Nitiditermes_proximatus	T>A			
+Nitiditermes_proximatus	T>C			
+Nitiditermes_proximatus	T>G			
+Heterotermes_crinitus	A>G	1.22091	80.2593	0.100241
+Heterotermes_crinitus	C>T	0.998624	65.5135	0.100445
+Heterotermes_crinitus	G>A	1.9979	16.4707	0.799314
+Heterotermes_crinitus	T>C	0.410045	25.2558	0.0
+Heterotermes_crinitus	G>C	0.0	11.4801	0.0
+Heterotermes_crinitus	A>T	0.0	63.6239	0.0
+Heterotermes_crinitus	T>A	0.0	13.7776	0.0
+Heterotermes_crinitus	A>C	0.0	63.6239	0.0
+Heterotermes_crinitus	G>T	0.0	11.4801	0.0
+Heterotermes_crinitus	C>A	0.0	20.1286	0.0
+Heterotermes_crinitus	C>G	0.0	20.1286	0.0
+Heterotermes_crinitus	T>G	0.0	13.7776	0.0
+Neocapritermes_opacus	A>C			
+Neocapritermes_opacus	A>G			
+Neocapritermes_opacus	A>T			
+Neocapritermes_opacus	C>A			
+Neocapritermes_opacus	C>G			
+Neocapritermes_opacus	C>T			
+Neocapritermes_opacus	G>A			
+Neocapritermes_opacus	G>C			
+Neocapritermes_opacus	G>T			
+Neocapritermes_opacus	T>A			
+Neocapritermes_opacus	T>C			
+Neocapritermes_opacus	T>G			
+Cryptotermes_domesticus	A>C			
+Cryptotermes_domesticus	A>G			
+Cryptotermes_domesticus	A>T			
+Cryptotermes_domesticus	C>A			
+Cryptotermes_domesticus	C>G			
+Cryptotermes_domesticus	C>T			
+Cryptotermes_domesticus	G>A			
+Cryptotermes_domesticus	G>C			
+Cryptotermes_domesticus	G>T			
+Cryptotermes_domesticus	T>A			
+Cryptotermes_domesticus	T>C			
+Cryptotermes_domesticus	T>G			
+Reticulitermes_banyulensis	A>G	3.45039	97.463	0.0667536
+Reticulitermes_banyulensis	C>T	4.54404	61.0941	0.140245
+Reticulitermes_banyulensis	G>A	4.35355	17.1663	0.478204
+Reticulitermes_banyulensis	T>C	3.6484	37.9511	0.181269
+Reticulitermes_banyulensis	T>G	0.909597	12.8447	0.133528
+Reticulitermes_banyulensis	C>A	0.0	11.0639	0.0
+Reticulitermes_banyulensis	A>C	0.0	69.1516	0.0
+Reticulitermes_banyulensis	C>G	0.0	11.0639	0.0
+Reticulitermes_banyulensis	T>A	0.0	12.8447	0.0
+Reticulitermes_banyulensis	G>T	0.0	8.89186	0.0
+Reticulitermes_banyulensis	G>C	0.0	8.89186	0.0
+Reticulitermes_banyulensis	A>T	0.0	69.1516	0.0
+Odontotermes_sarawakensis	A>G	0.866168	110.551	0.0
+Odontotermes_sarawakensis	C>T	1.58769	89.0128	1.0
+Odontotermes_sarawakensis	A>C	0.0	83.7018	0.0
+Odontotermes_sarawakensis	C>G	0.0	22.878	0.0
+Odontotermes_sarawakensis	G>C	0.0	8.78835	0.0
+Odontotermes_sarawakensis	T>A	0.0	15.1472	0.0
+Odontotermes_sarawakensis	G>T	0.0	8.78835	0.0
+Odontotermes_sarawakensis	T>G	0.0	15.1472	0.0
+Odontotermes_sarawakensis	G>A	0.0	15.3796	0.0
+Odontotermes_sarawakensis	C>A	0.0	22.878	0.0
+Odontotermes_sarawakensis	T>C	0.0	32.4912	0.0
+Odontotermes_sarawakensis	A>T	0.0	83.7018	0.0
+Anacanthotermes_ochraceus	A>C	0.614683	89.9046	0.0
+Anacanthotermes_ochraceus	A>G	7.05318	119.879	0.0943907
+Anacanthotermes_ochraceus	A>T	1.7824	89.9046	0.031806
+Anacanthotermes_ochraceus	C>T	3.83426	61.0009	0.10084
+Anacanthotermes_ochraceus	G>A	2.47807	7.15876	0.555344
+Anacanthotermes_ochraceus	T>A	0.869896	11.7452	0.0
+Anacanthotermes_ochraceus	T>C	2.1294	40.6954	0.0839456
+Anacanthotermes_ochraceus	T>G	0.978639	11.7452	0.133674
+Anacanthotermes_ochraceus	G>T	0.0	5.71205	0.0
+Anacanthotermes_ochraceus	G>C	0.0	5.71205	0.0
+Anacanthotermes_ochraceus	C>G	0.0	11.2622	0.0
+Anacanthotermes_ochraceus	C>A	0.0	11.2622	0.0
+Macrotermes_subhyalinus	A>C	0.999965	80.658	0.0142667
+Macrotermes_subhyalinus	A>G	2.25298	106.373	0.0243731
+Macrotermes_subhyalinus	A>T	0.885946	80.658	0.0
+Macrotermes_subhyalinus	C>A	2.7666	16.3344	0.194908
+Macrotermes_subhyalinus	C>G	0.782098	16.3344	0.0
+Macrotermes_subhyalinus	C>T	9.38676	70.5193	0.153177
+Macrotermes_subhyalinus	G>A	3.32151	9.40887	0.406241
+Macrotermes_subhyalinus	T>A	0.94366	14.7264	0.0737402
+Macrotermes_subhyalinus	T>C	3.33671	28.8068	0.133294
+Macrotermes_subhyalinus	G>T	0.0	4.97368	0.0
+Macrotermes_subhyalinus	G>C	0.0	4.97368	0.0
+Macrotermes_subhyalinus	T>G	0.0	14.7264	0.0
+Heterotermes_lauralinearum	A>G	1.54306	67.1846	0.121048
+Heterotermes_lauralinearum	C>T	0.544899	51.8984	0.0
+Heterotermes_lauralinearum	G>A	1.51023	20.5723	0.386906
+Heterotermes_lauralinearum	T>A	0.998844	16.7412	0.314453
+Heterotermes_lauralinearum	T>C	0.999482	29.6616	0.177593
+Heterotermes_lauralinearum	A>T	0.0	53.6368	0.0
+Heterotermes_lauralinearum	G>T	0.0	10.6468	0.0
+Heterotermes_lauralinearum	A>C	0.0	53.6368	0.0
+Heterotermes_lauralinearum	C>G	0.0	17.8783	0.0
+Heterotermes_lauralinearum	G>C	0.0	10.6468	0.0
+Heterotermes_lauralinearum	C>A	0.0	17.8783	0.0
+Heterotermes_lauralinearum	T>G	0.0	16.7412	0.0
+Heterotermes_tenuis	A>C	0.861906	68.2189	0.0
+Heterotermes_tenuis	A>G	9.48065	86.6786	0.116447
+Heterotermes_tenuis	A>T	0.854491	68.2189	0.0
+Heterotermes_tenuis	C>A	0.85242	16.0972	0.0
+Heterotermes_tenuis	C>T	8.43079	58.7157	0.152867
+Heterotermes_tenuis	G>A	5.25088	11.0215	0.507216
+Heterotermes_tenuis	T>C	6.19812	29.5285	0.22347
+Heterotermes_tenuis	C>G	0.0	16.0972	0.0
+Heterotermes_tenuis	T>A	0.0	13.4829	0.0
+Heterotermes_tenuis	G>C	0.0	6.20917	0.0
+Heterotermes_tenuis	T>G	0.0	13.4829	0.0
+Heterotermes_tenuis	G>T	0.0	6.20917	0.0
+Neotermes_castaneus	A>C			
+Neotermes_castaneus	A>G			
+Neotermes_castaneus	A>T			
+Neotermes_castaneus	C>A			
+Neotermes_castaneus	C>G			
+Neotermes_castaneus	C>T			
+Neotermes_castaneus	G>A			
+Neotermes_castaneus	G>C			
+Neotermes_castaneus	G>T			
+Neotermes_castaneus	T>A			
+Neotermes_castaneus	T>C			
+Neotermes_castaneus	T>G			
+Nasutitermes_canaliculatus	A>C	0.576893	72.7716	0.0
+Nasutitermes_canaliculatus	G>A	0.576812	14.3329	0.0
+Nasutitermes_canaliculatus	T>C	3.5742	39.4138	1.0
+Nasutitermes_canaliculatus	C>G	0.0	15.3715	0.0
+Nasutitermes_canaliculatus	G>C	0.0	8.42092	0.0
+Nasutitermes_canaliculatus	G>T	0.0	8.42092	0.0
+Nasutitermes_canaliculatus	C>T	0.0	67.0038	0.0
+Nasutitermes_canaliculatus	C>A	0.0	15.3715	0.0
+Nasutitermes_canaliculatus	A>G	0.0	100.756	0.0
+Nasutitermes_canaliculatus	T>A	0.0	13.7946	0.0
+Nasutitermes_canaliculatus	T>G	0.0	13.7946	0.0
+Nasutitermes_canaliculatus	A>T	0.0	72.7716	0.0
+Coptotermes_michaelseni	A>C	0.411419	142.375	0.0
+Coptotermes_michaelseni	A>G	1.99774	191.329	0.15474
+Coptotermes_michaelseni	C>T	0.310301	121.743	0.0
+Coptotermes_michaelseni	G>A	0.999621	17.5263	0.84526
+Coptotermes_michaelseni	A>T	0.0	142.375	0.0
+Coptotermes_michaelseni	T>C	0.0	54.6336	0.0
+Coptotermes_michaelseni	C>G	0.0	20.4662	0.0
+Coptotermes_michaelseni	C>A	0.0	20.4662	0.0
+Coptotermes_michaelseni	G>T	0.0	9.79073	0.0
+Coptotermes_michaelseni	T>A	0.0	18.4966	0.0
+Coptotermes_michaelseni	T>G	0.0	18.4966	0.0
+Coptotermes_michaelseni	G>C	0.0	9.79073	0.0
+Trinervitermes_trinervoides	C>T	0.997612	36.1597	1.0
+Trinervitermes_trinervoides	C>G	0.0	11.3138	0.0
+Trinervitermes_trinervoides	C>A	0.0	11.3138	0.0
+Trinervitermes_trinervoides	G>C	0.0	2.66207	0.0
+Trinervitermes_trinervoides	A>T	0.0	50.5792	0.0
+Trinervitermes_trinervoides	A>G	0.0	70.5448	0.0
+Trinervitermes_trinervoides	A>C	0.0	50.5792	0.0
+Trinervitermes_trinervoides	T>G	0.0	14.6414	0.0
+Trinervitermes_trinervoides	G>T	0.0	2.66207	0.0
+Trinervitermes_trinervoides	T>C	0.0	37.7127	0.0
+Trinervitermes_trinervoides	T>A	0.0	14.6414	0.0
+Trinervitermes_trinervoides	G>A	0.0	6.65517	0.0
+Coptotermes_acinaciformis	A>C	1.5043	189.022	0.00387879
+Coptotermes_acinaciformis	A>G	21.3518	253.825	0.0409991
+Coptotermes_acinaciformis	A>T	3.28781	189.022	0.00847752
+Coptotermes_acinaciformis	C>A	0.73625	24.2936	0.0
+Coptotermes_acinaciformis	C>T	52.3606	154.478	0.1652
+Coptotermes_acinaciformis	G>A	15.8808	16.8627	0.459008
+Coptotermes_acinaciformis	G>T	0.96921	9.88441	0.0477904
+Coptotermes_acinaciformis	T>C	38.0244	76.9624	0.240801
+Coptotermes_acinaciformis	T>G	1.93763	27.9025	0.0338456
+Coptotermes_acinaciformis	G>C	0.0	9.88441	0.0
+Coptotermes_acinaciformis	T>A	0.0	27.9025	0.0
+Coptotermes_acinaciformis	C>G	0.0	24.2936	0.0
+Trinervitermes_geminatus	A>G	2.90923	139.538	0.204846
+Trinervitermes_geminatus	C>T	0.999624	61.4527	0.159822
+Trinervitermes_geminatus	T>C	4.7277	73.1124	0.635332
+Trinervitermes_geminatus	G>T	0.0	3.56178	0.0
+Trinervitermes_geminatus	C>A	0.0	14.6721	0.0
+Trinervitermes_geminatus	G>A	0.0	7.12142	0.0
+Trinervitermes_geminatus	A>T	0.0	100.491	0.0
+Trinervitermes_geminatus	T>G	0.0	21.6328	0.0
+Trinervitermes_geminatus	A>C	0.0	100.491	0.0
+Trinervitermes_geminatus	G>C	0.0	3.56178	0.0
+Trinervitermes_geminatus	C>G	0.0	14.6721	0.0
+Trinervitermes_geminatus	T>A	0.0	21.6328	0.0
+Embiratermes_chagresi	A>C			
+Embiratermes_chagresi	A>G			
+Embiratermes_chagresi	A>T			
+Embiratermes_chagresi	C>A			
+Embiratermes_chagresi	C>G			
+Embiratermes_chagresi	C>T			
+Embiratermes_chagresi	G>A			
+Embiratermes_chagresi	G>C			
+Embiratermes_chagresi	G>T			
+Embiratermes_chagresi	T>A			
+Embiratermes_chagresi	T>C			
+Embiratermes_chagresi	T>G			
+Aparatermes_cingulatus	A>C			
+Aparatermes_cingulatus	A>G			
+Aparatermes_cingulatus	A>T			
+Aparatermes_cingulatus	C>A			
+Aparatermes_cingulatus	C>G			
+Aparatermes_cingulatus	C>T			
+Aparatermes_cingulatus	G>A			
+Aparatermes_cingulatus	G>C			
+Aparatermes_cingulatus	G>T			
+Aparatermes_cingulatus	T>A			
+Aparatermes_cingulatus	T>C			
+Aparatermes_cingulatus	T>G			
+Nasutitermes_matangensis	A>G	8.17013	171.897	0.10522
+Nasutitermes_matangensis	A>T	0.501498	122.197	0.0
+Nasutitermes_matangensis	C>A	1.19742	35.4059	0.0748701
+Nasutitermes_matangensis	C>T	5.84659	123.069	0.10517
+Nasutitermes_matangensis	G>A	6.24244	30.6249	0.451251
+Nasutitermes_matangensis	G>T	0.800716	17.7669	0.0
+Nasutitermes_matangensis	T>C	10.238	86.0179	0.263489
+Nasutitermes_matangensis	T>A	0.0	32.6622	0.0
+Nasutitermes_matangensis	A>C	0.0	122.197	0.0
+Nasutitermes_matangensis	G>C	0.0	17.7669	0.0
+Nasutitermes_matangensis	T>G	0.0	32.6622	0.0
+Nasutitermes_matangensis	C>G	0.0	35.4059	0.0
+Reticulitermes_urbis	A>G	2.43191	91.6069	0.631957
+Reticulitermes_urbis	A>T	0.998845	64.6051	0.368043
+Reticulitermes_urbis	G>A	0.441589	7.17979	0.0
+Reticulitermes_urbis	T>C	0.441589	36.078	0.0
+Reticulitermes_urbis	C>T	0.0	53.314	0.0
+Reticulitermes_urbis	T>G	0.0	12.6283	0.0
+Reticulitermes_urbis	G>T	0.0	3.5898	0.0
+Reticulitermes_urbis	G>C	0.0	3.5898	0.0
+Reticulitermes_urbis	A>C	0.0	64.6051	0.0
+Reticulitermes_urbis	C>A	0.0	9.44475	0.0
+Reticulitermes_urbis	C>G	0.0	9.44475	0.0
+Reticulitermes_urbis	T>A	0.0	12.6283	0.0
+Zootermopsis_nevadensis	A>C	1.37316	77.2975	0.0204203
+Zootermopsis_nevadensis	A>G	9.09941	118.978	0.0879132
+Zootermopsis_nevadensis	A>T	1.50808	77.2975	0.0224267
+Zootermopsis_nevadensis	C>A	0.737349	7.95398	0.0
+Zootermopsis_nevadensis	C>T	10.9965	45.1113	0.280208
+Zootermopsis_nevadensis	G>A	4.64524	12.5684	0.424851
+Zootermopsis_nevadensis	T>A	0.340181	8.17979	0.0
+Zootermopsis_nevadensis	T>C	7.57009	53.0013	0.164181
+Zootermopsis_nevadensis	G>T	0.0	9.68455	0.0
+Zootermopsis_nevadensis	T>G	0.0	8.17979	0.0
+Zootermopsis_nevadensis	C>G	0.0	7.95398	0.0
+Zootermopsis_nevadensis	G>C	0.0	9.68455	0.0
+Coptotermes_gestroi	A>C	0.305881	128.725	0.0
+Coptotermes_gestroi	A>G	3.29795	167.395	0.0394544
+Coptotermes_gestroi	C>A	1.99926	19.2518	0.207966
+Coptotermes_gestroi	C>G	0.999641	19.2518	0.103984
+Coptotermes_gestroi	C>T	6.20037	106.594	0.116487
+Coptotermes_gestroi	G>A	1.61011	16.8171	0.191733
+Coptotermes_gestroi	T>A	0.99879	16.5678	0.120727
+Coptotermes_gestroi	T>C	4.41751	40.2756	0.219649
+Coptotermes_gestroi	G>C	0.0	11.4808	0.0
+Coptotermes_gestroi	A>T	0.0	128.725	0.0
+Coptotermes_gestroi	G>T	0.0	11.4808	0.0
+Coptotermes_gestroi	T>G	0.0	16.5678	0.0
+Macrotermes_gilvus	A>G	0.366779	154.254	0.0
+Macrotermes_gilvus	C>T	0.999909	94.044	0.120933
+Macrotermes_gilvus	G>A	0.453846	8.35053	0.0
+Macrotermes_gilvus	T>C	0.999588	48.5473	0.234192
+Macrotermes_gilvus	T>G	0.999758	17.6334	0.644875
+Macrotermes_gilvus	G>C	0.0	2.84553	0.0
+Macrotermes_gilvus	T>A	0.0	17.6334	0.0
+Macrotermes_gilvus	C>G	0.0	19.8533	0.0
+Macrotermes_gilvus	A>T	0.0	118.209	0.0
+Macrotermes_gilvus	G>T	0.0	2.84553	0.0
+Macrotermes_gilvus	A>C	0.0	118.209	0.0
+Macrotermes_gilvus	C>A	0.0	19.8533	0.0
+Neotermes_holmgreni	A>C	1.29545	63.5205	0.0709839
+Neotermes_holmgreni	A>G	5.07649	90.2978	0.195677
+Neotermes_holmgreni	A>T	0.690818	63.5205	0.0
+Neotermes_holmgreni	C>T	2.99931	40.9207	0.255112
+Neotermes_holmgreni	G>A	0.999984	10.9998	0.316418
+Neotermes_holmgreni	T>C	1.99955	43.0111	0.16181
+Neotermes_holmgreni	G>C	0.0	6.99991	0.0
+Neotermes_holmgreni	T>G	0.0	11.0082	0.0
+Neotermes_holmgreni	T>A	0.0	11.0082	0.0
+Neotermes_holmgreni	C>A	0.0	13.757	0.0
+Neotermes_holmgreni	C>G	0.0	13.757	0.0
+Neotermes_holmgreni	G>T	0.0	6.99991	0.0
+Reticulitermes_nelsonae	A>C	0.650674	65.853	0.0
+Reticulitermes_nelsonae	A>G	8.58047	93.2061	0.217512
+Reticulitermes_nelsonae	C>A	0.650199	11.7819	0.0
+Reticulitermes_nelsonae	C>T	5.88798	57.8839	0.24034
+Reticulitermes_nelsonae	G>A	1.29996	10.1087	0.303843
+Reticulitermes_nelsonae	T>C	3.28019	32.5223	0.238306
+Reticulitermes_nelsonae	T>G	0.0	9.49332	0.0
+Reticulitermes_nelsonae	A>T	0.0	65.853	0.0
+Reticulitermes_nelsonae	T>A	0.0	9.49332	0.0
+Reticulitermes_nelsonae	G>C	0.0	5.17548	0.0
+Reticulitermes_nelsonae	G>T	0.0	5.17548	0.0
+Reticulitermes_nelsonae	C>G	0.0	11.7819	0.0
+Nasutitermes_ephratae	A>G	1.98425	89.4682	0.530268
+Nasutitermes_ephratae	T>C	0.99607	50.6998	0.469732
+Nasutitermes_ephratae	A>T	0.0	67.1017	0.0
+Nasutitermes_ephratae	G>T	0.0	7.45683	0.0
+Nasutitermes_ephratae	G>A	0.0	15.9078	0.0
+Nasutitermes_ephratae	G>C	0.0	7.45683	0.0
+Nasutitermes_ephratae	T>G	0.0	24.8528	0.0
+Nasutitermes_ephratae	C>T	0.0	61.635	0.0
+Nasutitermes_ephratae	T>A	0.0	24.8528	0.0
+Nasutitermes_ephratae	C>A	0.0	21.8705	0.0
+Nasutitermes_ephratae	C>G	0.0	21.8705	0.0
+Nasutitermes_ephratae	A>C	0.0	67.1017	0.0
+Coptotermes_lacteus	A>C			
+Coptotermes_lacteus	A>G			
+Coptotermes_lacteus	A>T			
+Coptotermes_lacteus	C>A			
+Coptotermes_lacteus	C>G			
+Coptotermes_lacteus	C>T			
+Coptotermes_lacteus	G>A			
+Coptotermes_lacteus	G>C			
+Coptotermes_lacteus	G>T			
+Coptotermes_lacteus	T>A			
+Coptotermes_lacteus	T>C			
+Coptotermes_lacteus	T>G			
+Ancistrotermes_pakistanicus	A>C	2.73753	77.8493	0.0465256
+Ancistrotermes_pakistanicus	A>G	13.042	106.734	0.16167
+Ancistrotermes_pakistanicus	A>T	0.842672	77.8493	0.0
+Ancistrotermes_pakistanicus	C>A	0.728163	19.2287	0.0
+Ancistrotermes_pakistanicus	C>G	0.99998	19.2287	0.0688064
+Ancistrotermes_pakistanicus	C>T	6.00157	81.0716	0.0979452
+Ancistrotermes_pakistanicus	G>A	4.26063	16.5251	0.341128
+Ancistrotermes_pakistanicus	T>C	7.48026	34.8578	0.283925
+Ancistrotermes_pakistanicus	T>G	0.361689	15.2921	0.0
+Ancistrotermes_pakistanicus	G>T	0.0	11.9023	0.0
+Ancistrotermes_pakistanicus	T>A	0.0	15.2921	0.0
+Ancistrotermes_pakistanicus	G>C	0.0	11.9023	0.0
+Reticulitermes_speratus	A>G	1.43675	103.666	0.03007
+Reticulitermes_speratus	C>T	3.35966	58.289	0.125054
+Reticulitermes_speratus	G>A	2.72303	9.05209	0.652668
+Reticulitermes_speratus	T>C	3.43092	38.7283	0.192208
+Reticulitermes_speratus	G>T	0.0	5.66968	0.0
+Reticulitermes_speratus	C>A	0.0	11.8084	0.0
+Reticulitermes_speratus	T>A	0.0	11.1214	0.0
+Reticulitermes_speratus	A>C	0.0	69.5597	0.0
+Reticulitermes_speratus	C>G	0.0	11.8084	0.0
+Reticulitermes_speratus	A>T	0.0	69.5597	0.0
+Reticulitermes_speratus	T>G	0.0	11.1214	0.0
+Reticulitermes_speratus	G>C	0.0	5.66968	0.0
+Ancistrotermes_cavithorax	A>C			
+Ancistrotermes_cavithorax	A>G			
+Ancistrotermes_cavithorax	A>T			
+Ancistrotermes_cavithorax	C>A			
+Ancistrotermes_cavithorax	C>G			
+Ancistrotermes_cavithorax	C>T			
+Ancistrotermes_cavithorax	G>A			
+Ancistrotermes_cavithorax	G>C			
+Ancistrotermes_cavithorax	G>T			
+Ancistrotermes_cavithorax	T>A			
+Ancistrotermes_cavithorax	T>C			
+Ancistrotermes_cavithorax	T>G			
+Heterotermes_cardini	A>C			
+Heterotermes_cardini	A>G			
+Heterotermes_cardini	A>T			
+Heterotermes_cardini	C>A			
+Heterotermes_cardini	C>G			
+Heterotermes_cardini	C>T			
+Heterotermes_cardini	G>A			
+Heterotermes_cardini	G>C			
+Heterotermes_cardini	G>T			
+Heterotermes_cardini	T>A			
+Heterotermes_cardini	T>C			
+Heterotermes_cardini	T>G			
+Coptotermes_formosanus	G>A	0.968497	8.21365	0.780783
+Coptotermes_formosanus	T>C	0.968167	29.2446	0.219217
+Coptotermes_formosanus	A>C	0.0	59.4798	0.0
+Coptotermes_formosanus	C>G	0.0	8.87401	0.0
+Coptotermes_formosanus	T>G	0.0	13.4713	0.0
+Coptotermes_formosanus	G>C	0.0	4.27034	0.0
+Coptotermes_formosanus	C>A	0.0	8.87401	0.0
+Coptotermes_formosanus	G>T	0.0	4.27034	0.0
+Coptotermes_formosanus	C>T	0.0	45.021	0.0
+Coptotermes_formosanus	A>G	0.0	78.5392	0.0
+Coptotermes_formosanus	A>T	0.0	59.4798	0.0
+Coptotermes_formosanus	T>A	0.0	13.4713	0.0
+Compositermes_vindai	A>C	0.821346	46.1625	0.0
+Compositermes_vindai	A>G	6.06652	62.4878	0.0599492
+Compositermes_vindai	A>T	0.640454	46.1625	0.0
+Compositermes_vindai	C>A	0.941842	9.47929	0.0613538
+Compositermes_vindai	C>T	8.04737	31.855	0.155997
+Compositermes_vindai	G>A	4.28405	4.79365	0.551858
+Compositermes_vindai	T>C	10.2892	37.1901	0.170842
+Compositermes_vindai	T>G	0.640603	16.4932	0.0
+Compositermes_vindai	T>A	0.0	16.4932	0.0
+Compositermes_vindai	C>G	0.0	9.47929	0.0
+Compositermes_vindai	G>C	0.0	1.39523	0.0
+Compositermes_vindai	G>T	0.0	1.39523	0.0
+Microcerotermes_arboreus	A>C			
+Microcerotermes_arboreus	A>G			
+Microcerotermes_arboreus	A>T			
+Microcerotermes_arboreus	C>A			
+Microcerotermes_arboreus	C>G			
+Microcerotermes_arboreus	C>T			
+Microcerotermes_arboreus	G>A			
+Microcerotermes_arboreus	G>C			
+Microcerotermes_arboreus	G>T			
+Microcerotermes_arboreus	T>A			
+Microcerotermes_arboreus	T>C			
+Microcerotermes_arboreus	T>G			
+Coptotermes_heimi	A>G	2.88535	109.695	0.071199
+Coptotermes_heimi	A>T	0.832622	81.2698	0.0
+Coptotermes_heimi	C>T	3.84492	70.695	0.147217
+Coptotermes_heimi	G>A	0.960428	16.1771	0.160703
+Coptotermes_heimi	T>A	1.45531	21.5661	0.18266
+Coptotermes_heimi	T>C	5.73709	48.638	0.319283
+Coptotermes_heimi	T>G	0.947616	21.5661	0.118938
+Coptotermes_heimi	C>G	0.0	14.8677	0.0
+Coptotermes_heimi	G>T	0.0	8.54668	0.0
+Coptotermes_heimi	G>C	0.0	8.54668	0.0
+Coptotermes_heimi	A>C	0.0	81.2698	0.0
+Coptotermes_heimi	C>A	0.0	14.8677	0.0
+Cryptotermes_havilandi	A>G	5.99181	112.234	0.134945
+Cryptotermes_havilandi	C>A	0.998635	19.6484	0.12847
+Cryptotermes_havilandi	C>T	7.99052	63.9424	0.31587
+Cryptotermes_havilandi	G>A	0.998425	10.3249	0.244428
+Cryptotermes_havilandi	T>C	3.9951	57.2834	0.176287
+Cryptotermes_havilandi	G>C	0.0	5.32941	0.0
+Cryptotermes_havilandi	T>A	0.0	20.649	0.0
+Cryptotermes_havilandi	G>T	0.0	5.32941	0.0
+Cryptotermes_havilandi	C>G	0.0	19.6484	0.0
+Cryptotermes_havilandi	A>T	0.0	78.2636	0.0
+Cryptotermes_havilandi	A>C	0.0	78.2636	0.0
+Cryptotermes_havilandi	T>G	0.0	20.649	0.0
+Reticulitermes_chinensis	A>G	2.13575	84.7291	0.240127
+Reticulitermes_chinensis	C>T	1.23089	49.0064	0.239271
+Reticulitermes_chinensis	T>C	1.80273	32.9873	0.520603
+Reticulitermes_chinensis	T>G	0.0	9.04463	0.0
+Reticulitermes_chinensis	C>A	0.0	11.0935	0.0
+Reticulitermes_chinensis	G>C	0.0	5.31777	0.0
+Reticulitermes_chinensis	C>G	0.0	11.0935	0.0
+Reticulitermes_chinensis	A>C	0.0	55.9769	0.0
+Reticulitermes_chinensis	G>A	0.0	7.66459	0.0
+Reticulitermes_chinensis	G>T	0.0	5.31777	0.0
+Reticulitermes_chinensis	A>T	0.0	55.9769	0.0
+Reticulitermes_chinensis	T>A	0.0	9.04463	0.0
+Odontotermes_latericius	A>G	0.99623	60.1723	0.27706
+Odontotermes_latericius	A>T	0.997485	44.6311	0.374007
+Odontotermes_latericius	C>T	0.997086	47.819	0.348934
+Odontotermes_latericius	C>A	0.0	17.9321	0.0
+Odontotermes_latericius	T>G	0.0	10.1616	0.0
+Odontotermes_latericius	T>C	0.0	22.1163	0.0
+Odontotermes_latericius	G>T	0.0	3.18794	0.0
+Odontotermes_latericius	C>G	0.0	17.9321	0.0
+Odontotermes_latericius	T>A	0.0	10.1616	0.0
+Odontotermes_latericius	G>A	0.0	5.57889	0.0
+Odontotermes_latericius	G>C	0.0	3.18794	0.0
+Odontotermes_latericius	A>C	0.0	44.6311	0.0
+Odontotermes_javanicus	A>C			
+Odontotermes_javanicus	A>G			
+Odontotermes_javanicus	A>T			
+Odontotermes_javanicus	C>A			
+Odontotermes_javanicus	C>G			
+Odontotermes_javanicus	C>T			
+Odontotermes_javanicus	G>A			
+Odontotermes_javanicus	G>C			
+Odontotermes_javanicus	G>T			
+Odontotermes_javanicus	T>A			
+Odontotermes_javanicus	T>C			
+Odontotermes_javanicus	T>G			
+Psammotermes_hypostoma	A>G	1.94369	100.711	0.0406068
+Psammotermes_hypostoma	A>T	0.999982	75.7678	0.0277687
+Psammotermes_hypostoma	C>T	2.94366	62.7439	0.0987104
+Psammotermes_hypostoma	G>A	2.85378	16.9205	0.354858
+Psammotermes_hypostoma	G>T	0.999927	8.06427	0.260886
+Psammotermes_hypostoma	T>A	1.94307	23.2077	0.176159
+Psammotermes_hypostoma	T>C	0.971372	49.834	0.0410117
+Psammotermes_hypostoma	G>C	0.0	8.06427	0.0
+Psammotermes_hypostoma	T>G	0.0	23.2077	0.0
+Psammotermes_hypostoma	C>A	0.0	14.048	0.0
+Psammotermes_hypostoma	A>C	0.0	75.7678	0.0
+Psammotermes_hypostoma	C>G	0.0	14.048	0.0
+Pericapritermes_topslipensis	A>C			
+Pericapritermes_topslipensis	A>G			
+Pericapritermes_topslipensis	A>T			
+Pericapritermes_topslipensis	C>A			
+Pericapritermes_topslipensis	C>G			
+Pericapritermes_topslipensis	C>T			
+Pericapritermes_topslipensis	G>A			
+Pericapritermes_topslipensis	G>C			
+Pericapritermes_topslipensis	G>T			
+Pericapritermes_topslipensis	T>A			
+Pericapritermes_topslipensis	T>C			
+Pericapritermes_topslipensis	T>G			
+Zootermopsis_angusticollis	A>G	0.999343	58.715	0.0648039
+Zootermopsis_angusticollis	C>T	0.999398	26.2344	0.145045
+Zootermopsis_angusticollis	G>A	0.999428	5.74659	0.662182
+Zootermopsis_angusticollis	T>C	0.999303	29.7323	0.127969
+Zootermopsis_angusticollis	T>G	0.0	9.24449	0.0
+Zootermopsis_angusticollis	C>G	0.0	7.24568	0.0
+Zootermopsis_angusticollis	A>C	0.0	39.2266	0.0
+Zootermopsis_angusticollis	A>T	0.0	39.2266	0.0
+Zootermopsis_angusticollis	G>C	0.0	3.74778	0.0
+Zootermopsis_angusticollis	G>T	0.0	3.74778	0.0
+Zootermopsis_angusticollis	C>A	0.0	7.24568	0.0
+Zootermopsis_angusticollis	T>A	0.0	9.24449	0.0
+Reticulitermes_labralis	A>G	1.75896	70.2048	0.290099
+Reticulitermes_labralis	C>T	0.723907	41.1743	0.0
+Reticulitermes_labralis	G>A	0.797618	6.94386	0.0
+Reticulitermes_labralis	T>C	1.66964	27.2322	0.709901
+Reticulitermes_labralis	A>T	0.0	46.6356	0.0
+Reticulitermes_labralis	T>G	0.0	7.54555	0.0
+Reticulitermes_labralis	G>T	0.0	4.42209	0.0
+Reticulitermes_labralis	T>A	0.0	7.54555	0.0
+Reticulitermes_labralis	C>A	0.0	9.28592	0.0
+Reticulitermes_labralis	G>C	0.0	4.42209	0.0
+Reticulitermes_labralis	C>G	0.0	9.28592	0.0
+Reticulitermes_labralis	A>C	0.0	46.6356	0.0
+Cryptotermes_dudleyi	A>C			
+Cryptotermes_dudleyi	A>G			
+Cryptotermes_dudleyi	A>T			
+Cryptotermes_dudleyi	C>A			
+Cryptotermes_dudleyi	C>G			
+Cryptotermes_dudleyi	C>T			
+Cryptotermes_dudleyi	G>A			
+Cryptotermes_dudleyi	G>C			
+Cryptotermes_dudleyi	G>T			
+Cryptotermes_dudleyi	T>A			
+Cryptotermes_dudleyi	T>C			
+Cryptotermes_dudleyi	T>G			
+Odontotermes_obesus	A>C	0.850192	44.3911	0.0
+Odontotermes_obesus	A>G	3.28833	56.4014	0.0486247
+Odontotermes_obesus	A>T	2.18566	44.3911	0.0410637
+Odontotermes_obesus	C>A	1.42331	15.9208	0.0745601
+Odontotermes_obesus	C>T	6.41284	46.754	0.114394
+Odontotermes_obesus	G>A	4.67781	9.17372	0.425275
+Odontotermes_obesus	T>A	0.38621	6.40168	0.0
+Odontotermes_obesus	T>C	5.83487	16.4358	0.296083
+Odontotermes_obesus	G>T	0.0	4.49586	0.0
+Odontotermes_obesus	T>G	0.0	6.40168	0.0
+Odontotermes_obesus	G>C	0.0	4.49586	0.0
+Odontotermes_obesus	C>G	0.0	15.9208	0.0
+Anoplotermes_janus	A>G	2.56542	80.4563	0.0593131
+Anoplotermes_janus	A>T	1.91989	59.8473	0.0596738
+Anoplotermes_janus	C>A	0.773485	7.3234	0.0
+Anoplotermes_janus	C>T	2.5063	41.1603	0.113268
+Anoplotermes_janus	G>A	2.46092	8.0891	0.565912
+Anoplotermes_janus	T>A	0.998809	22.2936	0.0833402
+Anoplotermes_janus	T>C	2.7774	43.6013	0.118493
+Anoplotermes_janus	A>C	0.0	59.8473	0.0
+Anoplotermes_janus	G>T	0.0	5.03375	0.0
+Anoplotermes_janus	T>G	0.0	22.2936	0.0
+Anoplotermes_janus	G>C	0.0	5.03375	0.0
+Anoplotermes_janus	C>G	0.0	7.3234	0.0
+Coptotermes_testaceus	A>G	0.753872	111.335	0.0
+Coptotermes_testaceus	C>T	0.72619	76.6546	0.0
+Coptotermes_testaceus	G>A	2.68009	9.99537	0.628094
+Coptotermes_testaceus	T>C	3.70502	23.3362	0.371906
+Coptotermes_testaceus	G>T	0.0	1.51656	0.0
+Coptotermes_testaceus	C>G	0.0	14.3977	0.0
+Coptotermes_testaceus	C>A	0.0	14.3977	0.0
+Coptotermes_testaceus	T>A	0.0	4.53706	0.0
+Coptotermes_testaceus	A>C	0.0	82.3127	0.0
+Coptotermes_testaceus	T>G	0.0	4.53706	0.0
+Coptotermes_testaceus	A>T	0.0	82.3127	0.0
+Coptotermes_testaceus	G>C	0.0	1.51656	0.0
+Trinervitermes_oeconomus	A>C			
+Trinervitermes_oeconomus	A>G			
+Trinervitermes_oeconomus	A>T			
+Trinervitermes_oeconomus	C>A			
+Trinervitermes_oeconomus	C>G			
+Trinervitermes_oeconomus	C>T			
+Trinervitermes_oeconomus	G>A			
+Trinervitermes_oeconomus	G>C			
+Trinervitermes_oeconomus	G>T			
+Trinervitermes_oeconomus	T>A			
+Trinervitermes_oeconomus	T>C			
+Trinervitermes_oeconomus	T>G			
+Reticulitermes_flaviceps	A>C			
+Reticulitermes_flaviceps	A>G			
+Reticulitermes_flaviceps	A>T			
+Reticulitermes_flaviceps	C>A			
+Reticulitermes_flaviceps	C>G			
+Reticulitermes_flaviceps	C>T			
+Reticulitermes_flaviceps	G>A			
+Reticulitermes_flaviceps	G>C			
+Reticulitermes_flaviceps	G>T			
+Reticulitermes_flaviceps	T>A			
+Reticulitermes_flaviceps	T>C			
+Reticulitermes_flaviceps	T>G			
+Odontotermes_malaccensis	A>C			
+Odontotermes_malaccensis	A>G			
+Odontotermes_malaccensis	A>T			
+Odontotermes_malaccensis	C>A			
+Odontotermes_malaccensis	C>G			
+Odontotermes_malaccensis	C>T			
+Odontotermes_malaccensis	G>A			
+Odontotermes_malaccensis	G>C			
+Odontotermes_malaccensis	G>T			
+Odontotermes_malaccensis	T>A			
+Odontotermes_malaccensis	T>C			
+Odontotermes_malaccensis	T>G			
+Macrotermes_falciger	A>C			
+Macrotermes_falciger	A>G			
+Macrotermes_falciger	A>T			
+Macrotermes_falciger	C>A			
+Macrotermes_falciger	C>G			
+Macrotermes_falciger	C>T			
+Macrotermes_falciger	G>A			
+Macrotermes_falciger	G>C			
+Macrotermes_falciger	G>T			
+Macrotermes_falciger	T>A			
+Macrotermes_falciger	T>C			
+Macrotermes_falciger	T>G			
