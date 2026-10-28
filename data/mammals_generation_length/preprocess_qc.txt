@@ -1,0 +1,17 @@
+MAMMAL CYTB PREPROCESSING QC
+============================
+MIDORI mammal CYTB records: 5386
+Generation-length rows: 5426
+Duplicate Scientific_name values in generation-length table (excluded): 2
+Exact MIDORI x generation-length name matches before sequence QC: 3882
+After sequence QC: 3373
+Exact matches to TimeTree tips: 3000
+Not matched to TimeTree tips: 373
+Final species with zero ambiguous nucleotides: 2669
+Final species with direct/observed-calculated generation length: 963
+
+Primary QC:
+- sequence length >= 1000 nt
+- no internal stops under vertebrate mitochondrial code
+- Phe + LeuTT > 0
+- exact species-name matching only
